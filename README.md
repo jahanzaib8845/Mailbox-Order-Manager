@@ -1,6 +1,6 @@
 # Mailbox Order Manager
 
-Demo video: (add link here)
+Demo video: https://www.awesomescreenshot.com/video/58159935?key=5be28e223d41a3c2a8d85bac1479334f
 
 Internal tool for selling pre-warmed Google/Microsoft mailboxes.
 
@@ -23,6 +23,5 @@ Internal tool for selling pre-warmed Google/Microsoft mailboxes.
 `npm run test`
 
 ## Known limitations
-- Worker crash may leave an order in PROVISIONING.
-- Provider provisioning is mocked with random ~20% failure.
+- Provider provisioning is mocked.
 - No real email sending.
